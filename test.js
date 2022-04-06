@@ -1,14 +1,8 @@
 //ex 1
 
 let newArr = [1,2,3,4,5];
-let number = newArr;
 console.log("the numbers are"+" : ");
-console.log(number);
-//or
-let numbers = newArrs =[1,2,3,4,5];
-console.log(`another way of it : `);
-console.log(numbers)
-
+console.log(newArr);
 //ex 2 and 3
 
 let intro = {
